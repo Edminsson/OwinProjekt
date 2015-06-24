@@ -10,8 +10,6 @@ namespace FromEmptyMvc
 {
     public class Startup
     {
-        //La till referensen Microsoft.Owin.Host.SystemWeb via Nuget
-        //Exemplet kommer från http://www.asp.net/aspnet/overview/owin-and-katana/owin-startup-class-detection
         public void Configuration(IAppBuilder app)
         {
             app.Use((context, next) =>

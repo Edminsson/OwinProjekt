@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinConsole", "OwinProjekt\OwinConsole.csproj", "{30C4D375-55DA-4183-9C69-25E01DE1EE97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromEmptyMvc", "FromEmptyMvc\FromEmptyMvc.csproj", "{604D4053-E51D-416F-8ACA-DEAD798FB748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{30C4D375-55DA-4183-9C69-25E01DE1EE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30C4D375-55DA-4183-9C69-25E01DE1EE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30C4D375-55DA-4183-9C69-25E01DE1EE97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604D4053-E51D-416F-8ACA-DEAD798FB748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604D4053-E51D-416F-8ACA-DEAD798FB748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604D4053-E51D-416F-8ACA-DEAD798FB748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604D4053-E51D-416F-8ACA-DEAD798FB748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

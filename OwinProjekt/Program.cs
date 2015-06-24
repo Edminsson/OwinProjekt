@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OwinProjekt
+namespace OwinConsole
 {
     using System.IO;
     using System.Web.Http;

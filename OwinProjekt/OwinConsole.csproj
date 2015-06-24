@@ -7,8 +7,8 @@
     <ProjectGuid>{30C4D375-55DA-4183-9C69-25E01DE1EE97}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OwinProjekt</RootNamespace>
-    <AssemblyName>OwinProjekt</AssemblyName>
+    <RootNamespace>OwinConsole</RootNamespace>
+    <AssemblyName>OwinConsole</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -69,6 +69,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Greeting.cs" />
+    <Compile Include="GreetingController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinConsole", "OwinProjekt\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromEmptyMvc", "FromEmptyMvc\FromEmptyMvc.csproj", "{604D4053-E51D-416F-8ACA-DEAD798FB748}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSecurity", "WebApiSecurity\WebApiSecurity.csproj", "{515EBAA3-BB22-4839-A6E3-E1608E0D58EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{604D4053-E51D-416F-8ACA-DEAD798FB748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{604D4053-E51D-416F-8ACA-DEAD798FB748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{604D4053-E51D-416F-8ACA-DEAD798FB748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515EBAA3-BB22-4839-A6E3-E1608E0D58EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515EBAA3-BB22-4839-A6E3-E1608E0D58EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515EBAA3-BB22-4839-A6E3-E1608E0D58EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515EBAA3-BB22-4839-A6E3-E1608E0D58EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
